@@ -1,0 +1,21 @@
+﻿Order_ID,Customer_ID,Customer Name,Food Name,city,Total Orders,Total Spending ,Rating
+101,C001,Arun Kumar,Pizza,Chennai,15,4500,4.8
+102,C002,Priya Sharma,Burger,Bangalore,12,3800,4.6
+103,C003,Rahul Singh,Sandwich,Hyderabed,20,6200,4.9
+104,C004,Karthik Raj,Dose,Mumbai,10,2900,4.5
+105,C005,Divay ,Idli,Coimbatore,18,5400,4.7
+106,C006,Meena,Pongal,Kochi,8,2300,4.4
+107,C007,Kala Rani,Fried Rice,Delhi,14,4100,4.6
+108,C008,Nisha,Noodles,Vijayawada,11,3200,4.5
+109,C009,Akalya,Biryani,Madurai,16,4800,4.8
+110,C010,Benciha,Parotta,Pune,9,2700,4.3
+111,C011,Athira,Chicken Curry,Delhi,8,6200,4.5
+112,C012,Akshaya,Paneer Butter Masala,Kochi,10,4800,4.9
+113,C013,Aswini,Chapati,Chennai,18,3200,4.4
+114,C014,Teena,Veg Meals,Hyderabed,8,4500,4.7
+115,C015,Minu,Ice Cream,Coimbatore,9,2300,4.5
+116,C016,Arun  ,Gulab Jamun,Vijayawada,11,2300,4.9
+117,C017,Abisha,Coffe,Mumbai,14,4100,4.8
+118,C018,Asha,Tea,Madurai,16,3200,4.6
+119,C019,Adharsha,Fresh Juice,Pune,14,4800,4.5
+120,C020,Ajay Prasath,Cake,Bangalore,8,2700,4.3
